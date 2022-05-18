@@ -43,10 +43,15 @@
     <dependencyManagement>
         <dependencies>
             <!--mysql驱动包-->
+<!--            <dependency>-->
+<!--                <groupId>mysql</groupId>-->
+<!--                <artifactId>mysql-connector-java</artifactId>-->
+<!--                <version>5.1.35</version>-->
+<!--            </dependency>-->
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.35</version>
+                <version>8.0.26</version>
             </dependency>
 
             <!--hutool工具包-->
